@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  GettingStarted
+//  NameApp
 //
-//  Created by Kirilll Zaikin on 02/02/2019.
+//  Created by Kirilll Zaikin on 09/02/2019.
 //  Copyright © 2019 Kirilll Zaikin. All rights reserved.
 //
 
